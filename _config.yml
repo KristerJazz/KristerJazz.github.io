@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 
 title: Krister Jazz Urog personal page
 description: A short summary of who am I :)
+
+github:
+  repository_url: https://github.com/KristerJazz
