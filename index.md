@@ -1,4 +1,13 @@
-# Krister Jazz Urog
+# WORK
+
+## Cyverse UK research software engineer
+kristerjazz.urog@earlham.ac.uk
+
+
+
+
+
+# EDUCATION
 
 ### Master in High Performance Computing
 
