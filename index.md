@@ -3,21 +3,24 @@
 
 ## Research Software Engineer ( CyVerse UK)
 **PRESENT**
+
 Cloud computing and bioinformatics
 - Earlham Institute, Norwich, UK
-- kristerjazz.urog@earlham.ac.uk
 
 ## Data Scientist (Freelance)
 (2019-2020)
+
 - Herrington Technologies
 
 ## A.I. Software Developer
 (2017-2019)
+
 Network optimization, Gamification, NLP
 - A.I Pros Inc. 
 
 ## Financial Data Analyst
 (2014-2017)
+
 Algorithmic stock market trading using artificial intelligence: Machine learning/deep learning
 - Alpha Opensource
 
