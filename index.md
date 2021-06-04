@@ -5,6 +5,19 @@
 - Earlham Institute, Norwich, UK
 - kristerjazz.urog@earlham.ac.uk
 
+## Data Scientist (Freelance)
+- Herrington Technologies
+- 2019-2020
+
+## A.I. Software Developer
+- A.I Pros Inc.
+- 2017-2019
+
+## Financial Data Analyst
+- Alpha Opensource
+- 2014-2017
+
+
 ---
 # Education
 ---
