@@ -1,7 +1,5 @@
----
 # Work
 ---
-
 
 ## Research Software Engineer ( CyVerse UK)
 - Earlham Institute, Norwich, UK
