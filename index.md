@@ -2,20 +2,24 @@
 ---
 
 ## Research Software Engineer ( CyVerse UK)
+**PRESENT**
+Cloud computing and bioinformatics
 - Earlham Institute, Norwich, UK
 - kristerjazz.urog@earlham.ac.uk
 
 ## Data Scientist (Freelance)
+(2019-2020)
 - Herrington Technologies
-- 2019-2020
 
 ## A.I. Software Developer
-- A.I Pros Inc.
-- 2017-2019
+(2017-2019)
+Network optimization, Gamification, NLP
+- A.I Pros Inc. 
 
 ## Financial Data Analyst
+(2014-2017)
+Algorithmic stock market trading using artificial intelligence: Machine learning/deep learning
 - Alpha Opensource
-- 2014-2017
 
 #### Skills
 ```
@@ -58,6 +62,6 @@ HPC, Physics, Complex systems, Networks, Cellular automata
 
 1. K.P. Urog, J.Y. Bantang and H.N. Adorna, Dominating Tree Problem Heuristics for Scale-free Networks, Proceedings of World Scientific Computing: Theory and Practice WCTP2018.
 
-2. K.P. Urog and J.Y. Bantang, Network Robustness on Bursty Loads, Proceedings of the Samahang Pisika ng Pilipinas 2018
+2. K.P. Urog and J.Y. Bantang, Network Robustness on Bursty Loads, Proceedings of the Samahang Pisika ng Pilipinas 2018.
 
 3. K.P. Urog, H.T. Yap, J.Y. Bantang, Eects of spatial distribution and behavior in a logistic equation based model of natural resources, Proceedings of the Samahang Pisika ng Pilipinas 2013. 
