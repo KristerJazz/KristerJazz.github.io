@@ -17,9 +17,9 @@
 - Alpha Opensource
 - 2014-2017
 
-'''
+```
 Software Development, Machine learning and artificial intelligence, Cloud computing, Bioinformatics, High Performance Computing (HPC)
-'''
+```
 
 
 ---
@@ -44,9 +44,9 @@ Thesis: Measure of Robustness in Complex Networks
 
 Thesis:  Cellular Automata Model of Logistic Growth Applied to Analysis of Marine Protected Areas
 
-'''
+```
 HPC, Physics, Complex systems, Networks, Cellular automata
-'''
+```
 
 ---
 # Conference Publications
