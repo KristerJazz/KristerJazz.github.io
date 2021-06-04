@@ -23,6 +23,7 @@ Thesis: Modelling Allelic ChIP-seq data using statistical analysis and MMDiff2
 Thesis: Measure of Robustness in Complex Networks
 
 ## B.S. Applied Physics (2014)
+- Complex Systems Group - Instrumentation Physics Laboratory
 - University of the Philippines - Diliman
 - Department of Science and Technology (DOST) Merit-A Scholar
 
