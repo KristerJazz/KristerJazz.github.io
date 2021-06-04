@@ -1,3 +1,4 @@
+---
 # Work
 ---
 
@@ -6,7 +7,7 @@
 - Earlham Institute, Norwich, UK
 - kristerjazz.urog@earlham.ac.uk
 
-
+---
 # Education
 ---
 
@@ -26,3 +27,7 @@ Thesis: Measure of Robustness in Complex Networks
 - Department of Science and Technology (DOST) Merit-A Scholar
 
 Thesis: Cellular automata model of Marine Protected Areas
+
+---
+# Conference Publications
+---
