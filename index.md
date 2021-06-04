@@ -64,4 +64,4 @@ HPC, Physics, Complex systems, Networks, Cellular automata
 
 2. K.P. Urog and J.Y. Bantang, Network Robustness on Bursty Loads, Proceedings of the Samahang Pisika ng Pilipinas 2018.
 
-3. K.P. Urog, H.T. Yap, J.Y. Bantang, Eects of spatial distribution and behavior in a logistic equation based model of natural resources, Proceedings of the Samahang Pisika ng Pilipinas 2013. 
+3. K.P. Urog, H.T. Yap, J.Y. Bantang, Effects of spatial distribution and behavior in a logistic equation based model of natural resources, Proceedings of the Samahang Pisika ng Pilipinas 2013. 
